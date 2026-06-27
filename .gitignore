@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Результаты генерации
+izbushka-yandex-in-stock.xml
+izbushka-skipped.csv
+izbushka-yml-by-category.zip
+yml_by_category/
+v9-run-log.txt
+
+# Локальный входной список
+izbushka-product-urls.txt
+
+# Временные файлы Windows
+Thumbs.db
+Desktop.ini
